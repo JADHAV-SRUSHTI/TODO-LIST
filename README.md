@@ -1,3 +1,3 @@
 # TODO-LIST
-This repository is for organizing and prioritizing our tasks.
+This repository contain to-do list which is used for organizing and prioritizing our tasks.
 
